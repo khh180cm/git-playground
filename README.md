@@ -1,1 +1,1 @@
-# git-playground by feat/c
+# git-playground
